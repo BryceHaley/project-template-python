@@ -1,8 +1,4 @@
-# Vancouver Datajam 2021 Project template 
-
-This repository contains a Python project template.
-
-## Blackfoot Chat app
+# Blackfoot Chat app
 
 ## Acknowledgements
 This project is brought forward by a partner: Simon Fraser University, Department of Indigneous Studies and Department of Computing Science, by Prof. Eldon Yellowhorn and Dr. Angelica Lim.
