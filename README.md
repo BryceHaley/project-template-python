@@ -7,6 +7,8 @@ This project is brought forward by a partner: Simon Fraser University, Departmen
 ## Project statement
 The goal of this project is to take existing .wav and .txt files with English translations of the Blackfoot language (and vice versa), and develop an interactive web based application that allows an English speaker to explore the Blackfoot language, and vice versa.
 
+See: https://docs.google.com/document/d/1FFLEYqIGRMvxQxy7Uigj9qSMG9DFeC7o4rOF4VHllMk/edit#
+
 ## Project team members
 
 Team lead:Bryce Haley
